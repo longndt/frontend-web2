@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="ui menu">
-      <div class="header item">Vocab Builder</div>
+      <div class="header item">Demo Web COMP1842 - CO1303</div>
       <router-link to="/words" class="item"> <i class="list icon"></i>Words </router-link>
       <router-link to="/words/new" class="item">
         <i class="plus icon"></i>New
